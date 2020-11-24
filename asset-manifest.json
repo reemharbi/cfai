@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cfai/static/css/main.4544e27d.chunk.css",
+    "main.js": "/cfai/static/js/main.9c27002d.chunk.js",
+    "main.js.map": "/cfai/static/js/main.9c27002d.chunk.js.map",
+    "runtime-main.js": "/cfai/static/js/runtime-main.c596e7db.js",
+    "runtime-main.js.map": "/cfai/static/js/runtime-main.c596e7db.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/cfai/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c00ceb39.chunk.js": "/cfai/static/js/2.c00ceb39.chunk.js",
+    "static/js/2.c00ceb39.chunk.js.map": "/cfai/static/js/2.c00ceb39.chunk.js.map",
+    "index.html": "/cfai/index.html",
+    "precache-manifest.3c761545c834a6654b8553d913997ff1.js": "/cfai/precache-manifest.3c761545c834a6654b8553d913997ff1.js",
+    "service-worker.js": "/cfai/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/cfai/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4544e27d.chunk.css.map": "/cfai/static/css/main.4544e27d.chunk.css.map",
+    "static/js/2.c00ceb39.chunk.js.LICENSE": "/cfai/static/js/2.c00ceb39.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c596e7db.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c00ceb39.chunk.js",
+    "static/css/main.4544e27d.chunk.css",
+    "static/js/main.9c27002d.chunk.js"
+  ]
+}
